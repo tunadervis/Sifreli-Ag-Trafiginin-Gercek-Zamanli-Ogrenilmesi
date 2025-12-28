@@ -1,14 +1,14 @@
 Şifreli Ağ Trafiği Sınıflandırma Projesi
 Bu proje, şifreli ağ trafik akışlarını (YouTube, Spotify, Zoom vb.) makine öğrenmesi algoritmaları kullanarak sınıflandırmak için geliştirilmiştir.
 
-📊 Veri Seti
+Veri Seti
 Projede kullanılan yüksek boyutlu PCAP veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 Veri seti: "xx" linkinde
 
 İndirdiğiniz verileri projenin ana dizininde data/ klasörü altına, kategori isimlerine sahip alt klasörler (örneğin: data/video/, data/web/) şeklinde yerleştirmeniz gerekmektedir.
 
-📦 Kütüphane Bağımlılıkları
+Kütüphane Bağımlılıkları
 Proje Python 3.9+ sürümü ile uyumludur. Gerekli kütüphaneleri aşağıdaki komutla yükleyebilirsiniz:
 pip install scapy pandas numpy scikit-learn matplotlib seaborn joblib
 
