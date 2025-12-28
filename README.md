@@ -4,7 +4,7 @@ Bu proje, şifreli ağ trafik akışlarını (YouTube, Spotify, Zoom vb.) makine
 Veri Seti
 Projede kullanılan yüksek boyutlu PCAP veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-Veri seti: "xx" linkinde
+Veri seti: "https://drive.google.com/file/d/1ummcMv1OPSJuG4P_e3om6jq_q5XqkLk2/view?usp=sharing" linkinde
 
 İndirdiğiniz verileri projenin ana dizininde data/ klasörü altına, kategori isimlerine sahip alt klasörler (örneğin: data/video/, data/web/) şeklinde yerleştirmeniz gerekmektedir.
 
